@@ -8,7 +8,7 @@ The core objective is to identify how different data preparation and modeling te
 
 
 Methodology
-The study is implemented in Python and relies on several key libraries for its operations, including yfinance for data retrieval, numpy for mathematical operations, PyTorch for building neural network models, and matplotlib for data visualization. The entire workflow is encapsulated in a single module named project_functions for clarity and ease of use.
+The study is implemented in Python and relies on several key libraries for its operations, including yfinance for data retrieval, numpy for mathematical operations, PyTorch for building neural network models, and matplotlib for data visualization. The entire workflow is encapsulated in a single module named Applied_Machine_Learning.py for clarity and ease of use.
 
 
 
